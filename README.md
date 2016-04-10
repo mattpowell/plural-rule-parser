@@ -55,7 +55,7 @@ To consume the grammar directly
 -------------------------------
 
 The recommended approach is to create a git submodule via this:
-`git submodule add git@github.com:mattpowell/plural-url-parser.git`
+`git submodule add git@github.com:mattpowell/plural-rule-parser.git`
 
 Please open an issue if you need an alternate way to consume the grammar (e.g., a .tar.gz).
 
